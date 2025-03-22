@@ -1,4 +1,4 @@
-import { Button } from "@tezu/ui/button";
+import { Button } from "@tezu/ui/Button";
 
 const App = () => {
   return (
